@@ -1,3 +1,13 @@
+#**bmi-calculator**
+
+∗ This is a BMI Calculator App.
+
+∗ Features: It will display Underweight, Healthy and Overweight along with calculated BMI.
+
+∗ Project Deployment Link: https://bmi-calculator-jet-rho.vercel.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
